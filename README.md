@@ -1,2 +1,2 @@
 # Internshala-Bootstrap-solution
-It consists of bootstrap assignment solution for e-commerce website
+It is an e-commerce website build using HTML,CSS and Bootstrap.
